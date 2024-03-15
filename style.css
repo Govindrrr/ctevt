@@ -1,0 +1,154 @@
+.bak{
+	background: linear-gradient(45deg, transparent 49%, #FFf 49% 51%, transparent 51%) , linear-gradient(-45deg, transparent 49%, #FFf 49% 51%, transparent 51%);
+        background-size: 6em 6em;
+        background-color: #f5f9fa;
+        opacity: 1
+}
+
+*{
+	padding:0;
+	margin:0;
+}
+body{
+		padding:0;
+		margin:0;
+}
+.form-control{
+	font-size:12px;
+}
+.mid{
+	background-color:#003C78;
+	color:#fff;
+}
+.card-img-top{
+	color:lightseagreen;
+}
+
+.italic{
+	font-style: italic;
+}
+.bold{
+	font-weight:600;
+}
+.inh{
+	font-weight:normal;
+}
+.hover-red :hover{
+	 color:red;
+}
+.shadow{
+	box-shadow: ;
+}
+
+.botm {
+	border-bottom: 3px solid #003C67;
+	color:#003C67;
+	font-weight: bold;
+}
+.b-grey{
+	background-color: rgb(238, 238, 238)
+}
+.b-blue{
+	background-color:#003C67;
+	color:#fff;
+}
+.first{
+	background-color: rgb(0,142,179);
+	border: 10px solid rgb(86, 161, 204)
+}
+.borderr{
+	
+}
+.links{
+	letter-spacing:-1px;
+	font-weight: 400;
+}
+.second{
+	background-color: rgb(1,156,124);
+	border: 10px solid rgb(20, 204, 166)
+}
+.third{
+	background-color: rgb(133,76,18);
+	border: 10px solid rgb(193, 112, 30);
+}
+.light-blue{
+	background-color: #0470c2;
+}
+.boldd{
+	font-weight: 500;
+}
+
+.mar{
+	margin-top:-35%;
+	background-color: #fff;
+}
+.color{
+	color:#003C79;
+}
+.f-style{
+	font-size:18px;
+	font-weight: 400;
+}
+.borde{
+	border:none;
+	width:200px;
+}
+#btn{
+	border:none;
+}
+.bol{
+	font-weight:bold;
+	letter-spacing:0;
+}
+.bor{
+	border:1px solid gray;
+	border-radius:100px;
+}
+
+.back{
+	background-color:rgb(219, 217, 217);
+}
+input[type=search]{
+	background-color:rgb(219, 217, 217);
+}
+.no-border{
+	border:none;
+}
+.radi{
+	border-radius:5px;
+	font-size: 12px;
+}
+.tw{
+	font-size:12px;
+}
+.red{
+	position:sticky;
+	top:0;
+	z-index: 3;
+	
+}
+.clip{
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 75%, 0 100%);
+}
+.lig{
+	background-color: #07519b;
+	border:none;
+	color:white;
+	font-family: 500;
+	border-radius: 5px;
+
+}
+.hr{
+	position: fixed;
+	top:0px;
+
+}
+.bk{
+	color: #07519b;
+}
+.bottom{
+
+}
+.border-right{
+	border-right: #fff;
+}
